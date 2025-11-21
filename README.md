@@ -1,6 +1,6 @@
 # 🚀 tanvi-ravalekar
 
-### "Work is Worship." — tanvi-ravalekar*
+### "Work is Worship." — Sir M. Visvesvaraya*
 
 Welcome to *VisvesvarayaCode, a space dedicated to mastering **Full-Stack Java Development* and building *enterprise-level applications*.  
 Inspired by the engineering excellence of Sir M. Visvesvaraya, this profile reflects clean architecture, discipline, and scalable software engineering practices.
